@@ -3,7 +3,7 @@
 - 💻 I'm interested in Full Stack Development
 - 🌱 Currently learning Python, React, and SQL
 - 🚀 Exploring Cybersecurity & Emerging Technologies
-- 📫 How to reach me: your_email@example.com
+- 📫 How to reach me: alphatapfuma362a@gmail.com
 
 ---
 
