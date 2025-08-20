@@ -1,2 +1,14 @@
+# Hide C and headers
 *.c linguist-detectable=false
+*.h linguist-detectable=false
+
+# Hide C# and common project files
 *.cs linguist-detectable=false
+*.csproj linguist-detectable=false
+*.sln linguist-detectable=false
+
+# If big generated folders exist (build outputs), mark them so they don't count
+bin/** linguist-generated
+obj/** linguist-generated
+build/** linguist-generated
+dist/** linguist-generated
