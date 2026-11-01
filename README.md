@@ -17,6 +17,17 @@ I'm interested in **entry-level SOC and cybersecurity opportunities** where I ca
 | **[SSH Login Investigation](https://github.com/KingAlpha362/ssh-login-investigation)** | Correlation of Linux authentication records with Wazuh alerts; source attribution, UTC alignment, and a conclusion that separates test activity from evidence of compromise. |
 | **[Wazuh & Kali SOC Lab](https://github.com/KingAlpha362/wazuh-kali-soc-lab)** | File integrity monitoring, a Python file-activity simulation, and investigation notes on exposed services, authentication, and password hashes. |
 
+## 💻 Selected software projects
+
+These larger projects demonstrate application structure, data handling, and interface development alongside my security studies.
+
+| Project | What to explore |
+| --- | --- |
+| **[Multi-Branch Banking Simulation](https://github.com/KingAlpha362/C---Bank-system)** | Modular C++ application with accounts, branches, transactions, file-backed records, and reporting. Educational simulation. |
+| **[NeoVerse City Simulation](https://github.com/KingAlpha362/Console-Based-C-Game-Engine)** | Object-oriented city components, sensor data, STL containers, and event processing. |
+| **[PennyWise](https://github.com/KingAlpha362/PennyWise)** | React finance interface with dashboard views, theme controls, and a simulated assistant. Mock-data prototype. |
+| **[EPX Courier Website](https://github.com/KingAlpha362/EPX-Courier-website)** | React courier interface with coverage, branch-location, tracking-timeline, and reusable components. |
+
 ### 🔎 How I approach an investigation
 
 1. **Establish context:** identify the host, activity, and collection source.
@@ -39,9 +50,9 @@ These projects are **educational lab work**. They show my learning process and a
 
 ## 🗂️ Explore by interest
 
-**[Security labs](PORTFOLIO.md#security-labs)** · **[Programming](PORTFOLIO.md#programming)** · **[Data and analysis](PORTFOLIO.md#data-and-analysis)** · **[Web projects](PORTFOLIO.md#web-projects)** · **[Learning archive](PORTFOLIO.md#learning-archive)**
+**[Security labs](PORTFOLIO.md#security-labs)** · **[Featured software](PORTFOLIO.md#featured-software-projects)** · **[Web projects](PORTFOLIO.md#web-projects)** · **[Data and analysis](PORTFOLIO.md#data-and-analysis)** · **[Programming](PORTFOLIO.md#programming)**
 
-The index separates project implementations from exercises and reserved workspaces, so you can quickly find the work relevant to you.
+The portfolio leads with security investigations and larger applications. Supporting technical projects follow; introductory exercises are kept in the learning archive below.
 
 ## 🌱 What I'm working toward
 
@@ -54,3 +65,22 @@ The index separates project implementations from exercises and reserved workspac
 For entry-level opportunities, project feedback, or conversations about learning security operations, reach me on [LinkedIn](https://www.linkedin.com/in/alphatapfuma/) or by [email](mailto:alphatapfuma362a@gmail.com).
 
 If the lab notes are useful, follow along as I add more investigations.
+
+## 📚 Earlier learning & coursework
+
+<details>
+<summary>Explore introductory programming, HTML, Visual Basic, Excel, and Word projects</summary>
+
+These early exercises show where I started. My current focus and larger projects appear above.
+
+- [Programming and HTML exercises](PORTFOLIO.md#learning-archive)
+- [Visual Basic salary calculator](https://github.com/KingAlpha362/Salary-calculator-VB)
+- [Visual Basic hours-lived calculator](https://github.com/KingAlpha362/VB.Net-Program-to-Calculate-Hours-Lived)
+- [Visual Basic delivery selector](https://github.com/KingAlpha362/Delivery-method)
+- [Excel workbook practice](https://github.com/KingAlpha362/Introduction-to-Excel)
+- [Excel and Word chart practice](https://github.com/KingAlpha362/EXCEL-2.0)
+- [Word document design](https://github.com/KingAlpha362/Word-document)
+
+[Browse the complete learning archive →](PORTFOLIO.md#learning-archive)
+
+</details>
